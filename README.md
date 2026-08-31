@@ -1,2 +1,1 @@
-"# mytodolist" 
-"# myboard" 
+기본설정
